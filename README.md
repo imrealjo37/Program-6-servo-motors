@@ -30,7 +30,7 @@ This project uses:
 - A stable power supply for driving the servos. ⚡
 - Ground connections to ensure proper operation. 🌐
 
-### 🖼️ **Place for Circuit Diagram:**
+##  **Circuit Diagram:**
 ![image](https://github.com/user-attachments/assets/a62326f6-8b0c-49bb-8a91-c11c62fdd34f)
 
 

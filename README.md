@@ -107,15 +107,7 @@ Here’s how we make the robot walk naturally! 🦿👇
 ## 🎮 Tools and Platforms
 - **Tinkercad:** For circuit design and simulation. 
 - **Arduino UNO:** For programming and uploading code.
-
----
-
-## 🚀 How to Run
-1. Open the circuit in Tinkercad.
-2. Upload the Arduino code.
-3. Watch the servos perform their sweep motion and hold at 90°.
-4. Use the walking algorithm as a blueprint for advanced motion. 
-
+  
 ---
 
 ## 👤 Author
